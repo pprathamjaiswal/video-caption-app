@@ -30,7 +30,7 @@ This is a simple React-based web app that allows users to load a video, add capt
 
 4. **Start the app**:
    ```bash
-   npm start
+   npm run dev
    ```
 
    This will start the development server, and you can view the app in your browser at `http://localhost:5173`.
